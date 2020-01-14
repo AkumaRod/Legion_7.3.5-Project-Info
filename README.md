@@ -29,6 +29,8 @@ Check the list below to get a "mostly-full" picture about what can this future s
 - Raids,
 - Systems and other aspects of my World of Warcraft - Legion 7.3.5 project.
 
+--------------
+
 ## Starting Zones
 
 **** Horde ****
@@ -60,6 +62,8 @@ Check the list below to get a "mostly-full" picture about what can this future s
 - Highmountain (Highmountain Tauren @ Racials: Not Working properly) - Working (Overall scripts 22%)
 - Suramar (Nightborn @ Racials: Not Working properly) - Working (Overall scripts 46%)
 - The Vindicaar (Lightforged Draenei @ Racials: Not Working properly) - Working (Overall scripts 50%)
+
+--------------
 
 ## Zones
 
@@ -138,6 +142,8 @@ Check the list below to get a "mostly-full" picture about what can this future s
 Additional note:
 The tests was made on a Linux based dedicated server. There was 172 Testers during the last CBT phase. I hope the next one will gather much more attention. :)
 
+--------------
+
 ## Classes
 
 - Death Knight - Spells are Working ✔  at: ~90% (only 2-3 spells, and a few % of the talents are not Working properly right now)
@@ -155,6 +161,8 @@ The tests was made on a Linux based dedicated server. There was 172 Testers duri
 
 Please note:
 Those % are just estimated valus. The numbers comes from: Spells+Talents combinations (Passive and Actives overall).
+
+--------------
 
 ## Dungeons and Raids
 
@@ -205,6 +213,8 @@ Legion Raids: (Under heavy development)
 - Tomb of Sargeras: (Not started yet)
 - Antorus, The Burning Throne (Not started yet)
  
+--------------
+
 ## Systems and Core functions
 
 - Advanced pathfinding: Working, but some times its fails
@@ -226,6 +236,8 @@ Legion Raids: (Under heavy development)
 - Artifact Weapon (Challenger mode and skind) - Not working yet
 - Timewalker Dungeons: Working ✔  (100%)
 
+--------------
+
 ## Professions
 
 - Alchemy: Working
@@ -240,6 +252,8 @@ Legion Raids: (Under heavy development)
 - Leatherworking: Working
 - Skinning: Working
 - Archaeology: Working
+
+--------------
 
 ## World Events
 

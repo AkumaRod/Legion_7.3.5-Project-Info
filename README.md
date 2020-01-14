@@ -176,7 +176,7 @@ Working MoP dungeons: (Every Dungeons are Scripted on every modes)
 - Stormstout Brewery
 - Temple Jade Serpent
 
-Working MoP Raids: (Every Dungeons are Scripted on every modes)
+Working MoP Raids: (Every Raids are Scripted on every modes)
 - Heart Of Fear (Need additional fixes trough DataBase - DMG/Armor/Auras)
 - Mogushan Vault (Need additional fixes trough DataBase - DMG/Armor/Auras)
 

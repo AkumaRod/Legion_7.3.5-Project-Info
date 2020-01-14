@@ -68,7 +68,6 @@ Check the list below to get a "mostly-full" picture about what can this future s
 **** Eastern Kingdoms ****
 
 (under heavy developement)
-
 Playable and working, but still there are a lot of bugs and phasing errors.
 
 **** Great Sea ****

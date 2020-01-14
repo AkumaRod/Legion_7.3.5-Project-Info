@@ -168,15 +168,15 @@ Those % are just estimated valus. The numbers comes from: Spells+Talents combina
 
 Classic, The Burning Crusade, Wrath of the Lich King and Cataclysm
 
-- Working Classic dungeons: (Every Dungeons are Scripted)
-- Working Classic Raids: (Every Raids are Scripted on every modes)
-- Working TBC dungeons:  (Every Dungeons are Scripted)
-- Working TBC Raids: (Every Raids are scripted)
-- Working WoTLK dungeons:  (Every Dungeons are Scripted on every modes)
-- Working WoTLK  Raids: (Every Raids are Scripted on every modes)
-- Working dungeons: (Every Dungeons are Scripted on every modes)
+- Working Classic dungeons: (All Dungeons are Scripted)
+- Working Classic Raids: (All Raids are Scripted on All modes)
+- Working TBC dungeons:  (All Dungeons are Scripted)
+- Working TBC Raids: (All Raids are scripted)
+- Working WoTLK dungeons:  (All Dungeons are Scripted on All modes)
+- Working WoTLK  Raids: (All Raids are Scripted on All modes)
+- Working dungeons: (All Dungeons are Scripted on All modes)
 
-Working MoP dungeons: (Every Dungeons are Scripted on every modes)
+Working MoP dungeons: (All Dungeons are Scripted on All modes)
 - Gate Setting Sun
 - Mogushan Palace
 - Shadopan Monastery
@@ -184,24 +184,24 @@ Working MoP dungeons: (Every Dungeons are Scripted on every modes)
 - Stormstout Brewery
 - Temple Jade Serpent
 
-Working MoP Raids: (Every Raids are Scripted on every modes)
+Working MoP Raids: (All Raids are Scripted on All modes)
 - Heart Of Fear (Need additional fixes trough DataBase - DMG/Armor/Auras)
 - Mogushan Vault (Need additional fixes trough DataBase - DMG/Armor/Auras)
 
-Working MOP World Bosses: (Every WBs are Scripted)
+Working MOP World Bosses: (All WBs are Scripted)
 -  Oondasta
 -  Galion
 -  Sha of Anger
 
-Working WoD dungeons: (Every Dungeons are Scripted on every modes)
+Working WoD dungeons: (All Dungeons are Scripted on All modes)
 - Bloodmaul Slag Mines 
 - Everbloom
 - Shadowmoon Burial Grounds
 
-Working WoD Raids: (Every Raids are Scripted on every modes)
+Working WoD Raids: (All Raids are Scripted on All modes)
 - Highmaul
 
-Working Legion dungeons: (Every Dungeons are Scripted on every modes)
+Working Legion dungeons: (All Dungeons are Scripted on All modes)
 
 Legion World Bosses (Scripted)
 - Nithogg

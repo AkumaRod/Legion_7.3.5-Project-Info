@@ -1,7 +1,7 @@
 # Legion 7.3.5 Project
 Private Source MMO Framework (master = 7.3.5.26972)
 
-#Status Checker and Informations
+# Status Checker and Informations
 
 * [Introduction](#introduction)
 * [Starting Zones](#starting-zones)

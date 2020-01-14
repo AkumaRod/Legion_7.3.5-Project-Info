@@ -66,7 +66,9 @@ Check the list below to get a "mostly-full" picture about what can this future s
 (Zone contents below Legion, are tested by dedicated testers, members from my old retail guild named: "Pussycat Growls". Last CBT test was started at 2018 April 22nd, and ended at 2018 December 20th.)
 
 **** Eastern Kingdoms ****
+
 (under heavy developement)
+
 Playable and working, but still there are a lot of bugs and phasing errors.
 
 **** Great Sea ****
@@ -76,7 +78,9 @@ Playable and working, but still there are a lot of bugs and phasing errors.
 - Wandering Isle - Working
 
 **** Kalimdor ****
+
 (under heavy developement)
+
 Playable and working, but still there are a lot of bugs and phasing errors.
 
 **** Outland ****

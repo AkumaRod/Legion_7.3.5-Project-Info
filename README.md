@@ -16,7 +16,7 @@ Private Source MMO Framework (master = 7.3.5.26972)
 
 ## Introduction
 
-This Legion 7.3.5 Project is a *MMORPG* Framework based mostly in C++. The project not get its name, but it will change in the future.
+This Legion 7.3.5 Project is a *MMORPG* Framework based mostly in C++. The project doesn't have a final name yet, it might change in the future.
 
 This core had never been deployed on a live server, so the audience had no chance to try it. Those who have accessed it so far were members of my old retail guild (Pussycat Growls) and could only try it out during a CBT (Closed Beta Test). It is important to note that the version tested under CBT is much older than the current version. The status that is described is from July 19th 2018 (the last documentation), so I'll try to keep it up to date (as my time allows it to be up to date - I working in this project, and the current statement need to be re-checked for the live status update).
 

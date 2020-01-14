@@ -65,7 +65,7 @@ Check the list below to get a "mostly-full" picture about what can this future s
 
 (Zone contents below Legion, are tested by dedicated testers, members from my old retail guild named: "Pussycat Growls". Last CBT test was started at 2018 April 22nd, and ended at 2018 December 20th.)
 
-**** Eastern Kingdoms **** (under heavy developement)
+**** Eastern Kingdoms **** (under heavy development)
 - Playable and working, but still there are a lot of bugs and phasing errors.
 
 **** Great Sea ****
@@ -74,7 +74,7 @@ Check the list below to get a "mostly-full" picture about what can this future s
 - The Maelstrom - Working 
 - Wandering Isle - Working
 
-**** Kalimdor **** (under heavy developement)
+**** Kalimdor **** (under heavy development)
 - Playable and working, but still there are a lot of bugs and phasing errors.
 
 **** Outland ****
@@ -198,7 +198,7 @@ Working Legion dungeons: (Every Dungeons are Scripted on every modes)
 Legion World Bosses (Scripted)
 - Nithogg
 - Humongris
-Legion Raids: (Under heavy developement)
+Legion Raids: (Under heavy development)
 - Emerald Nightmire: (Normal, Heroic, Mythic) (1/8)
 - Trial of Valor: (Not started yet)
 - The Nighthold: (Not started yet)

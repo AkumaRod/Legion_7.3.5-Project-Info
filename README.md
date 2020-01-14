@@ -65,9 +65,8 @@ Check the list below to get a "mostly-full" picture about what can this future s
 
 (Zone contents below Legion, are tested by dedicated testers, members from my old retail guild named: "Pussycat Growls". Last CBT test was started at 2018 April 22nd, and ended at 2018 December 20th.)
 
-**** Eastern Kingdoms ****
-- (under heavy developement)
-Playable and working, but still there are a lot of bugs and phasing errors.
+**** Eastern Kingdoms **** (under heavy developement)
+- Playable and working, but still there are a lot of bugs and phasing errors.
 
 **** Great Sea ****
 - Kezan - Working 
@@ -75,9 +74,8 @@ Playable and working, but still there are a lot of bugs and phasing errors.
 - The Maelstrom - Working 
 - Wandering Isle - Working
 
-**** Kalimdor ****
-- (under heavy developement)
-Playable and working, but still there are a lot of bugs and phasing errors.
+**** Kalimdor **** (under heavy developement)
+- Playable and working, but still there are a lot of bugs and phasing errors.
 
 **** Outland ****
 - Blade's Edge Mountains - Working
@@ -177,9 +175,11 @@ Working MoP dungeons: (Every Dungeons are Scripted on every modes)
 - Siege Niuzao Temple
 - Stormstout Brewery
 - Temple Jade Serpent
+
 Working MoP Raids: (Every Dungeons are Scripted on every modes)
 - Heart Of Fear (Need additional fixes trough DataBase - DMG/Armor/Auras)
 - Mogushan Vault (Need additional fixes trough DataBase - DMG/Armor/Auras)
+
 Working MOP World Bosses: (Every WBs are Scripted)
 -  Oondasta
 -  Galion
@@ -189,10 +189,12 @@ Working WoD dungeons: (Every Dungeons are Scripted on every modes)
 - Bloodmaul Slag Mines 
 - Everbloom
 - Shadowmoon Burial Grounds
+
 Working WoD Raids: (Every Raids are Scripted on every modes)
 - Highmaul
 
 Working Legion dungeons: (Every Dungeons are Scripted on every modes)
+
 Legion World Bosses (Scripted)
 - Nithogg
 - Humongris

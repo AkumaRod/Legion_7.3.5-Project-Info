@@ -53,7 +53,7 @@ Check the list below to get a "mostly-full" picture about what can this future s
 
 **** Neutral ****
 
-- The Wandering Isle (Pandaren @ Racials: Working, but not finished yet) - Working (Overall scripts 91%)
+- The Wandering Isle (Pandaren @ Racials: Working ✔ 100%) - Working (Overall scripts 91%)
 - Mardum (Demon Hunter @ Racials: Working ✔ 100%) - Working (Overall scripts 100%)
 
 **** Allied Races ****

@@ -235,6 +235,7 @@ Legion Raids: (Under heavy development)
 - Artifact Weapon Quest lines: Fully working
 - Artifact Weapon (Challenger mode and skind) - Not working yet
 - Timewalker Dungeons: Working ✔  (100%)
+- Personal Loot: Working ✔  (100%)
 
 --------------
 

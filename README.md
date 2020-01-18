@@ -206,8 +206,10 @@ Working Legion dungeons: (All Dungeons are Scripted on All modes)
 Legion World Bosses (Scripted)
 - Nithogg
 - Humongris
+
 Legion Raids: (Under heavy development)
-- Emerald Nightmire: (Normal, Heroic, Mythic) (1/8)
+
+- Emerald Nightmare: (Normal, Heroic, Mythic) (2/8)
 - Trial of Valor: (Not started yet)
 - The Nighthold: (Not started yet)
 - Tomb of Sargeras: (Not started yet)

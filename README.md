@@ -54,7 +54,7 @@ Check the list below to get a "mostly-full" picture about what can this future s
 **** Neutral ****
 
 - The Wandering Isle (Pandaren @ Racials: Working ✔ 100%) - Working (Overall scripts 91%)
-- Mardum (Demon Hunter @ Racials: Working ✔ 100%) - Working (Overall scripts 99%)
+- Mardum (Demon Hunter @ Racials: Working ✔ 100%) - Mardum Working (Overall scripts 99%), The Wardens Court Working (Overall scripts 84%)
 
 **** Allied Races ****
 
@@ -209,7 +209,7 @@ Legion World Bosses (Scripted)
 
 Legion Raids: (Under heavy development)
 
-- Emerald Nightmare: (Normal, Heroic, Mythic) (2/8)
+- Emerald Nightmare: (Normal, Heroic, Mythic) (4/8)
 - Trial of Valor: (Not started yet)
 - The Nighthold: (Not started yet)
 - Tomb of Sargeras: (Not started yet)

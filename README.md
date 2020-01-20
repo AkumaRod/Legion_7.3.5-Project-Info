@@ -247,10 +247,10 @@ Legion Raids: (Under heavy development)
 - Blacksmithing: Working
 - Inscription: Working
 - Jewelcrafting: Working
-- Mining: Working (but not provide XP yet)
+- Mining: Working
 - Tailoring: Working
 - Engineering: Working
-- Herbalism: Working (but not provide XP yet)
+- Herbalism: Working
 - Enchanting: Working
 - Leatherworking: Working
 - Skinning: Working

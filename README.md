@@ -1,5 +1,5 @@
 # Legion 7.3.5 Project
-Private Source MMO Framework (master = 7.3.5.26972)
+Private Source MMO Framework (master = 7.3.5 26365)
 
 ## Status Checker and Informations
 
